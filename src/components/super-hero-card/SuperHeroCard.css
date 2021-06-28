@@ -1,0 +1,14 @@
+.super-hero-card {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #666666;
+    background-color: antiquewhite !important;
+}
+
+.super-hero-card img {
+    width: 100%;
+}
+
+.super-hero-card h2{
+    color: #000000;
+}

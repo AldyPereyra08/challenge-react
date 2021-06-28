@@ -1,4 +1,10 @@
-.App {
+body { 
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(112,136,164,1) 100%);
+}
+
+
+/*.App {
   text-align: center;
 }
 
@@ -36,3 +42,4 @@
     transform: rotate(360deg);
   }
 }
+*/
